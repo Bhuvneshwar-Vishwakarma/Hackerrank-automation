@@ -1,0 +1,15 @@
+{
+  "name": "hackerank-automation",
+  "version": "1.0.0",
+  "main": "hka.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhuvneshwar Vishwakarma",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
